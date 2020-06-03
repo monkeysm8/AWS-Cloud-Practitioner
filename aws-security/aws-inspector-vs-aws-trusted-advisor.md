@@ -17,5 +17,8 @@
 
 * Two options:
 
-1. Core checks and recommendations 2 Full trusted advisor - business/enterprise only
+1. Core checks and recommendations 
+2. Full trusted advisor - business/enterprise only
+
+
 
