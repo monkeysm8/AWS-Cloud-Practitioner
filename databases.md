@@ -30,9 +30,11 @@ Two key features:
 * Documents \(row\)
 * Key-value pairs \(fields\)
 * Allows you to add in extra fields all the time
-* **Amazon DynamoDB** is Amazon's nonrelational/NoSQL database
-  * Fast \(low latency\), flexible
-  * Scales with your application
+
+**Amazon DynamoDB** is Amazon's nonrelational/NoSQL database
+
+* Fast \(low latency\), flexible
+* Scales with your application
 
 #### Aurora
 
