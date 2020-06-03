@@ -42,6 +42,10 @@ Two key features:
 * Choose Aurora if you have an RDS
 * Choose DynamoDB if you have nonrelational
 
+**DocumentDB**
+
+* A fully managed document database service that supports MongoDB workloads.
+
 ## Data Warehousing \(Redshift\)
 
 * Used for business intelligence
