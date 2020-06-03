@@ -32,4 +32,5 @@ AWS certified with:
 * AWS shield blocks DDOS attacks. Two tiers: Standard and Advanced
 * Inspector looks for vulnerabilies on your EC2 instances.
 * Advisor gives suggestions for improvement, advanced one requires business subscription
+* Security scales with your AWS Cloud usage.
 
