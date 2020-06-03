@@ -2,6 +2,8 @@
 
 **AWS Command Line Interface \(CLI\):** This is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.
 
+**AWS Console:** This lets you access and manage Amazon Web Services through a web-based user interface.
+
 **Amazon Simple Workflow Service \(SWF\)**: This a web service that makes it easy to coordinate work across distributed application components. Amazon SWF enables applications for a range of use cases, including media processing, web application back-ends, business process workflows, and analytics pipelines, to be designed as a coordination of tasks.
 
 **AWS Application Discovery Service:** This helps systems integrators quickly and reliably plan application migration projects by automatically identifying applications running in on-premises data centres, their associated dependencies, and their performance profiles.
