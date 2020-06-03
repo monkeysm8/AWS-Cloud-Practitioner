@@ -9,8 +9,6 @@
 * MySQL Server
 * PostgreSQL
 
-
-
 **Aurora** \(Amazon's own database\):
 
 * Creates 6 copies of itself
