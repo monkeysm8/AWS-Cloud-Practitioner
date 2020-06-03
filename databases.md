@@ -8,21 +8,20 @@
 * Oracle
 * MySQL Server
 * PostgreSQL
-* Aurora \(Amazon's own database\):
-  * Creates 6 copies of itself
-  * 5 times better performance than MySQL, 1/10 price point
-  * Choose Aurora if you have an RDS
+
+
+
+**Aurora** \(Amazon's own database\):
+
+* Creates 6 copies of itself
+* 5 times better performance than MySQL, 1/10 price point
+* Choose Aurora if you have an RDS
 * MariaDB
 
 Two key features:
 
-1. Multi availability zones for disaster recovery:
-
-* Exact copy of your database in case the primary goes down \(Disaster recovery\)
-
-2. Read replicas for performance improvement
-
-* Spread read access across five databases, only one is for writing \(Scaling out / performance\)
+1. Multi availability zones for disaster recovery: Exact copy of your database in case the primary goes down \(Disaster recovery\)
+2. Read replicas for performance improvement: Spread read access across five databases, only one is for writing \(Scaling out / performance\)
 
 ## Non-relational Databases \(NoSQL\)
 
