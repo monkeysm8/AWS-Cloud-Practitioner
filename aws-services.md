@@ -40,3 +40,11 @@
 
 **AWS Marketplace:** A digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS. AWS Marketplace includes software listings from categories such as security, networking, storage, machine learning, business intelligence, database, and DevOps.
 
+**AWS Support Concierge Service:** Assists customers with account and billing inquiries.
+
+**AWS Support API**:  Provides access to some of the features of the AWS Support Center via an API.
+
+**AWS Infrastructure Event Management:**  A short-term engagement with AWS Support, included in the Enterprise-level Support product offering, and available for additional purchase for Business-level Support subscribers.
+
+**AWS Cloud9:** Is a cloud-based integrated development environment \(IDE\) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal.
+
