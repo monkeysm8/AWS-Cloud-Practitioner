@@ -62,3 +62,7 @@
 
 **The Elastic container registry \(ECR\):** This is a managed AWS Docker registry service for storing, managing and deploying Docker images
 
+**AWS Glue:** This is an Extract, Transform, and Load \(ETL\) service. You can use AWS Glue with data sources on Amazon S3, RedShift and other databases. With AWS Glue you transform and move the data to various destinations. It is used to prepare and load data for analytics
+
+**Amazon WorkSpaces:** This is a managed desktop computing service running on the AWS cloud**.**
+
