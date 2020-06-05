@@ -58,3 +58,5 @@
 
 **AWS CodeDeploy:** A fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Lambda, and your on-premises servers
 
+**Amazon Elastic Container Service for Kubernetes \(EKS\):** A managed Kubernetes service that makes it easy for you to run Kubernetes on AWS without needing to install, operate, and maintain your own Kubernetes control plane
+
