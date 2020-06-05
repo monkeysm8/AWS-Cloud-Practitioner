@@ -56,3 +56,5 @@
 
 **Amazon EMR:** AWS big data platform
 
+**AWS CodeDeploy:** A fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Lambda, and your on-premises servers
+
