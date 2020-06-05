@@ -60,3 +60,5 @@
 
 **Amazon Elastic Container Service for Kubernetes \(EKS\):** A managed Kubernetes service that makes it easy for you to run Kubernetes on AWS without needing to install, operate, and maintain your own Kubernetes control plane
 
+**The Elastic container registry \(ECR\):** This is a managed AWS Docker registry service for storing, managing and deploying Docker images
+
