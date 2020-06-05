@@ -52,3 +52,7 @@
 
 **AWS Cloud9:** Is a cloud-based integrated development environment \(IDE\) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal.
 
+**AWS Cost Explorer:** This ****has an easy-to-use interface that lets you visualize, understand, and manage your AWS costs and usage over time. Forecasting capabilities have been enhanced to support twelve month forecasts \(previously forecasts were limited to three months\)
+
+**Amazon EMR:** AWS big data platform
+

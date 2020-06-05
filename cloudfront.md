@@ -5,8 +5,6 @@ Amazon's CDN network, used to deliver:
 * Entire website, including dynamic, static, streaming, and interactive content using edge locations
 * Requests for content automatically routed to nearest edge location so content is delivered with best performance possible 
 
-
-
 ## Content Delivery Network \(CDN\)
 
 * System of services around the world that deliver web pages or web page content to a user based on user geographic location, origin of the webpage, and content delivery server 
@@ -20,7 +18,6 @@ Amazon's CDN network, used to deliver:
 ## Origin 
 
 * Origin of files that CDN will distribute:
-
   * S3 bucket
   * EC2 instance
   * Elastic Load Balancer
