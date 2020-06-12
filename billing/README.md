@@ -22,7 +22,7 @@ Pay for what you use, start or stop using product at any time.
 3. CloudFormation \(services it provisions not free\)
 4. Identity Access Management \(IAM\)
 5. Auto Scaling \(EC2 instances it uses are not free\)
-6. Opsworks
+6. OpsWorks
 7. Consolidated Billing \(add all AWS accounts into one bill\)
 
 ### 3 Fundamental Charges
