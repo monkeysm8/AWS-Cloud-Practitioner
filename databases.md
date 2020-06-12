@@ -33,14 +33,6 @@ Two key features:
 * Fast \(low latency\), flexible
 * Scales with your application
 
-#### Aurora
-
-* Relational, Amazon's own
-* 6 copies of itself
-* 5 times better performance than MySQL, 1/10 price point
-* Choose Aurora if you have an RDS
-* Choose DynamoDB if you have nonrelational
-
 **DocumentDB**
 
 * A fully managed document database service that supports MongoDB workloads.

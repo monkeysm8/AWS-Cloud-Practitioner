@@ -17,7 +17,7 @@
 
 * Read after Write consistency for PUTS of new objects
 
-  * If you read a file as soon as you upload it, you'll be able to read the file
+  * You can read a file as soon as you have uploaded it.
 
 * Eventual consistency for overwrite PUTS and DELETES \(can take some time to propogate\)
   * If you update a file and overwrite the old version, you may get the old file or the new file. It will eventually show up.
